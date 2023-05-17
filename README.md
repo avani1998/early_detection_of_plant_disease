@@ -1,4 +1,4 @@
-# early_detection_of_plant_disease
+# Early Detection of Plant Disease
 
 This repository contains our code for the Deep Learning final project as part of the coursework of NYU. This project seeks to leverage deep learning, specifically Convolutional Neural Networks (CNNs), to develop an efficient model for early detection of common plant diseases.
 
